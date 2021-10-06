@@ -1,0 +1,8 @@
+//
+// Created by Maddie on 10/6/2021.
+//
+
+#ifndef CS201_HOMEWORK4_TOKENIZER_HPP
+#define CS201_HOMEWORK4_TOKENIZER_HPP
+
+#endif //CS201_HOMEWORK4_TOKENIZER_HPP
